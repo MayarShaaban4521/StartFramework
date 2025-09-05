@@ -1,6 +1,6 @@
 import React from 'react'
 import '../global.css'
-import Input from './input/input'
+import Input from './Input/Input'
 
 export default function Contact() {
   return (
